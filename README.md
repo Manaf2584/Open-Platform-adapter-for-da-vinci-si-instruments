@@ -13,7 +13,7 @@
 | **Bambu PLA** | - | - | Print material used for all components |
 | **Miscellaneous** | - | 13.53 | 10 kΩ resistor, jumper wires, screws, nuts, heat shrink, thumb screws, and thread inserts |
 
-**Grand Total:** £499.50
+**Grand Total:** £499.50 (Updated 30/01/2025)
 
 
 Showcase video: https://youtu.be/XzJ7v7rmKO0
