@@ -14,3 +14,6 @@
 | **Miscellaneous** | - | 13.53 | 10 kΩ resistor, jumper wires, screws, nuts, heat shrink, thumb screws, and thread inserts |
 
 **Grand Total:** £499.50
+
+
+Showcase video: https://youtu.be/XzJ7v7rmKO0
